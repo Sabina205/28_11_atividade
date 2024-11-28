@@ -1,0 +1,11 @@
+
+1) Configuração básica do flet; 
+2) Inserir botão principal;
+3)Programar alteração de altura de botão
+4) Programar alteraçãoi de largura de botão
+5)Programar alteração de texto de botão;
+6)Programar alteração de ícones;
+7)Programar alteração de cantos de botão;
+8)Programar alteração de boradas de botão;
+9)Programar alteração de cor de bortão;
+10)Programar alteração de sombra de botão.
